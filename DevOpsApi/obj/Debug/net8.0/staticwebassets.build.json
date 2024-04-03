@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pquGkU0YBWk5FOW1Z0raordyPcC0/zMFIbN5VCNqp+8=",
+  "Source": "DevOpsApi",
+  "BasePath": "_content/DevOpsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

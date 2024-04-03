@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  devopsapi:
+    image: ${DOCKER_REGISTRY-}devopsapi
+    build:
+      context: .
+      dockerfile: DevOpsApi/Dockerfile

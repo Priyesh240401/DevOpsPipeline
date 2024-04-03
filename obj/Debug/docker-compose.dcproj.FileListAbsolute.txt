@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\DevOpsApi.deps.json
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\DevOpsApi.runtimeconfig.json
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\appsettings.Development.json
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\appsettings.json
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\DevOpsApi.exe
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\DevOpsApi.dll
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\bin\Debug\DevOpsApi.pdb
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\DevOpsApi\obj\Debug\docker-c.35A3FFBA.Up2Date
